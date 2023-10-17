@@ -7,4 +7,5 @@ Questions to Ask?:
 * Are there any correlations between types of crimes and demographic factors like income, education, or population density?
 Can we predict crime rates based on factors such as weather conditions, public events, or economic indicators?
 
-
+Link to google doc were we update our thought process
+https://docs.google.com/document/d/1LJNB5RKsHZ4MbaBoYwYNiJW4oaAMPEBco4blu27tM3U/edit
