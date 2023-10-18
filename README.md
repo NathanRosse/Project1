@@ -24,7 +24,7 @@ Chicago Crime Statistic: https://data.cityofchicago.org/Public-Safety/Crimes-200
 
 - What are the main ways these crimes are perpetuated? (Nathan K)
 
-## Potential null and alternative hypothesis
+## Potential null and alternative hypothesis:
 N0 - The south side is the biggest crime spot
 Alt - Crime is starting to disseminate out of the south and into the west and east side
 
