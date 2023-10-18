@@ -24,6 +24,20 @@ Chicago Crime Statistic: https://data.cityofchicago.org/Public-Safety/Crimes-200
 
 - What are the main ways these crimes are perpetuated? (Nathan K)
 
+## Potential null and alternative hypothesis
+N0 - The south side is the biggest crime spot
+Alt - Crime is starting to disseminate out of the south and into the west and east side
+
+N0 - Most crimes are going taking place in public streets and are robberies
+Alt - home burglaries and break ins are most prevalent 
+
+N0 - Most crime is taking place later in the evening and usually nicer weather
+Alt - Crime occurs at all periods of the day and weather occasionally affects it.
+
+N0 - These crimes are being committed with weapons available
+Alt - These crimes are mainly acted out without a weapon available but the threat or indication of one.
+
+
 ## Breakdown of Task:
 Each group member is assigned to focus on one particular question. They will extract data that specifically meets the needs of the question and organize it. After this, the data will be analyzed by each member to see the trends in relation to their question. 
 
