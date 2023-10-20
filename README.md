@@ -18,7 +18,7 @@ Chicago Crime Statistic: https://data.cityofchicago.org/Public-Safety/Crimes-200
 ## Main Questions?
 - What are the crime hotspots in the city, and how have they changed over time? (Kelsey)
 
-- Where do the crimes typically take place and which are the most common crime/location combos? (Josh)
+- Where do the crimes typically take place and what is most common crime/location combination? (Josh)
 
 - What does the date and time of these crimes tell us? Could these differ based on season? (Nathan R)
 
