@@ -1,0 +1,1 @@
+Crime:  BATTERY, Count: 1445060 Crime:  ASSAULT, Count: 518529 Crime:  BURGLARY, Count: 427866 Crime:  ARSON, Count: 13512 
