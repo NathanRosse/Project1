@@ -1,7 +1,7 @@
 # Project1
 Our project will focus on 4 types of crimes in the city of Chicago;
 
--Assualt, Arson, Burglary, and Theft-
+-Assualt, Arson, Battery, and Burglary-
 
 It will look at how these crimes have either increased or decreased in frequency in the last two decades while also analyzing where someone is most likely to be victimized. We also found it important to research the most common dates and times these crimes occur, as well as, how they are perpetrated.
 
@@ -18,11 +18,11 @@ Chicago Crime Statistic: https://data.cityofchicago.org/Public-Safety/Crimes-200
 ## Main Questions?
 - What are the crime hotspots in the city, and how have they changed over time? (Kelsey)
 
-- Where do the crimes typically take place and which are the most and least common? (Josh)
+- Where do the crimes typically take place and what is most common crime/location combination? (Josh)
 
 - What does the date and time of these crimes tell us? Could these differ based on season? (Nathan R)
 
-- What are the main ways these crimes are perpetuated? (Nathan K)
+- How have arrest rates changed from 2001 to today? (Nathan K)
 
 ## Potential null and alternative hypothesis:
 N0 - The south side is the biggest crime spot
