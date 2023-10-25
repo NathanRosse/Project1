@@ -28,8 +28,8 @@ Chicago Crime Statistic: https://data.cityofchicago.org/Public-Safety/Crimes-200
 N0 - The south side is the biggest crime spot
 Alt - Crime is starting to disseminate out of the south and into the west and east side
 
-N0 - Most crimes are going taking place in public streets and are robberies
-Alt - Robberies occurring on streets are not the most common crime and are below other categories.
+N0 - Most crimes are going taking place in public streets and are burglaries
+Alt - Burglary occurring on streets are not the most common crime and are below other categories.
 
 N0 - Most crime is taking place later in the evening and usually nicer weather
 Alt - Crime occurs at all periods of the day and weather occasionally affects it.
